@@ -8,6 +8,8 @@ A design challenge to enhance the [Amtrak trip planning experience](https://www.
 
 Time: 30m
 
+[Initial evaluation](https://heurio.app/project/dU80U0cveHpZWjZyYURIMjZCK1NDZz09) completed using Huerio.
+
 ### Usability test (current site)
 
 Time: 30m
