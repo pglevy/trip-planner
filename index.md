@@ -9,14 +9,10 @@ layout-style: prose tablet:width-tablet
 {{ site.description }}
 {: .usa-intro}
 
-This is an early work in progress. Follow along on [GitHub](https://github.com/pglevy/rwp-toolkit){: .usa-link} or [Twitter](https://twitter.com/pglevy){: .usa-link}.
+## QuickTix prototype
 
-These are the current templates:
-
-{% for item in site.pages %}
-
-- <{{ site.url }}{{ site.baseurl }}{{ item.url }}>{: .usa-link}
-
-{% endfor %}
-
-See the wiki for more information about the [templates](https://github.com/pglevy/rwp-toolkit/wiki/Templates){: .usa-link} and available [components](https://github.com/pglevy/rwp-toolkit/wiki/Components){: .usa-link}.
+[One-page ticket purchase for common routes](quick-tix.html)
+- inputs are active
+- entered data is saved
+- price is static
+- mobile-friendly
