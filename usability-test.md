@@ -1,0 +1,31 @@
+" want to search
+- I have no idea
+- Eenie meenie minie mow
+- destination (didn't see to reverse them)
+- very faint grey
+- what are these? (stations)
+- don't know where in new jersey I want to be
+- but what's there?
+- I want to know what's around Hammenton, NJ
+- blueberry capital of the world
+- I should have done this earlier
+- nobody know what station is where
+- should have googled where I want to go first
+- need to do research first
+- painful
+- what did you like?
+    - date and where you're going is easy
+    - picking options is confusing
+- thought it would be all business
+- wasn't clear about return trip
+- two different trains
+- page you started on
+    - map is moving
+    - amtrak thing
+    - zooming kind of weird
+- not looking like you're planning your trip
+- if you went to amtrak plan your trip
+    - sound like you browse around and plan your itinerary
+    - almost like travel agent
+    - you want to see what to do in that city, what I should be doing
+    - amtrak is just buying tickets from point A to point B
