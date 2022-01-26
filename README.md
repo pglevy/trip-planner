@@ -1,6 +1,8 @@
 # Trip planner
 
-A design challenge to enhance the [Amtrak trip planning experience](https://www.amtrak.com/plan-your-trip.html)
+**A design challenge to enhance the [Amtrak trip planning experience](https://www.amtrak.com/plan-your-trip.html)**
+
+My approach and artifacts are organized below according to “four contexts”: problem discovery, problem validation, solution discovery, and solution validation. For my thoughts and initial writing on this approach, you can see [more detail here](https://github.com/pglevy/four-contexts/blob/main/four-contexts.md).
 
 ## Problem discovery
 
