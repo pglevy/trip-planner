@@ -51,7 +51,7 @@ My approach and artifacts are organized below according to “four contexts”: 
 
 <img width="1552" alt="quicktix2" src="https://user-images.githubusercontent.com/5177337/151229716-d205c6c6-9aed-4f5f-af37-c607f3d1ea1e.png">
 
-- [QuickTix: One-page ticket purchase for common routes](https://pglevy.github.io/trip-planner/quick-tix.html)
+- **Live Prototype: [QuickTix: One-page ticket purchase for common routes](https://pglevy.github.io/trip-planner/quick-tix.html)**
     - Questions:
         - Does this capture everything we need?
         - Do people have additional questions that aren't answered here for this use case?
