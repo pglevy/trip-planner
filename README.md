@@ -4,81 +4,61 @@ A design challenge to enhance the [Amtrak trip planning experience](https://www.
 
 ## Problem discovery
 
-### Heuristic evaluation
+### [Heuristic evaluation](https://bixal.github.io/methods/heuristic-evaluation)
 
-Time: 30m
+<img width="1552" alt="heurio" src="https://user-images.githubusercontent.com/5177337/151228442-08fdfbaa-259d-4b9c-93a7-5842d249c8ba.png">
 
-[Initial evaluation](https://heurio.app/project/dU80U0cveHpZWjZyYURIMjZCK1NDZz09) completed using Huerio.
+- [Initial evaluation and prioritization](https://heurio.app/project/dU80U0cveHpZWjZyYURIMjZCK1NDZz09) completed using Huerio.
+- Time: 30m
 
-### Usability test (current site)
+### [Usability test](https://bixal.github.io/methods/usability-testing) (current site)
 
-Time: 30m
+<img width="1067" alt="test with shadow" src="https://user-images.githubusercontent.com/5177337/151230347-da051ea4-ec9b-4c03-94fa-d6c40235a48b.png">
 
-Prompt: You want to plan a romantic getaway weekend, but you don't want to drive and you don't want to deal with the hassle of flying. So you decide to book travel on the train. Go ahead and use this link to plan your trip.
+- Prompt: You want to plan a romantic getaway weekend, but you don't want to drive and you don't want to deal with the hassle of flying. So you decide to book travel on the train. Go ahead and use this link to plan your trip.
+- [Video recording](#)
+- Time: 30m
 
 ## Problem validation
 
-### Summary of findings
+### [Summary of findings](https://bixal.github.io/methods/fundamentals/findings/)
 
-Time: 15m
+- Themes:
+    - Usability issues (Map, Inputs, System status)
+    - Understanding options
+    - Mental model mismatch of trip planning vs. buying tickets
+- Time: 15m
 
-- Usability issues (Map, Inputs, System status)
-- Understanding options
-- Mental model mismatch of trip planning vs. buying tickets
+### [Design hypothesis](https://bixal.github.io/methods/design-hypothesis) (Lean UX Canvas)
 
-### Design hypothesis (Lean UX Canvas)
+<img width="1072" alt="canvas" src="https://user-images.githubusercontent.com/5177337/151228711-37ab0857-d7a3-4602-8e01-54e65670ce91.png">
 
-Time: 15m
-
-Business Problems:
-- Too many customer support inquiries for sales on common routes
-- Opportunity: sell more "travel experiences" on less used routes
-
-Business outcomes:
-- Less customer support resources needed for common ticket purchases
-- Increase sales of travel packages
-
-Users:
-- People who know what they need
-- People who are interested in a different travel experience
-
-User outcomes & benefits:
-- Get the tickets they need quickly and with less confusion (saving time and frustration)
-- Expand their travel horizons and see the train as something more than getting from point A to point B (creating memorable experiences)
-
-Solutions:
-- For common routes, a "quick ticket" experience that is more similar to a retail checkout flow than a "trip planning" flow.
-- For common routes, a "graphic organizer" approach that summaries all the pieces that needed (stations, dates, travelers, seating, etc.) instead of a "wizard" flow so people can focus on one thing at a time but also see how they're progressing toward their goal
-- For travel experiences, a theme-based planner that starts with questions like: locations, history, family or couple (ages of kids), length of trip, etc.
-- For travel experiences, a "digital nomad" package that empahsizes features for remote workers: fast wi-fi, stimulating cities, focus time + change of scenery, open tickets (no set places and times), etc.
-
-Hypotheses:
-
-If people who know what they need can get their tickets for common routes faster and with less confusion, we can reduce customer support inquiries.
-
-If we can get people who are interested in new travel experiences to think about Amtrak as something more than getting from point A to point B, we can sell more premium, higher-margin travel packages.
-
-Learn first?
-
-1. What's the least amount of information we need to book tickets on common routes?
-2. What kind of messaging will resonate with travelers to encourage them to explore "the train as destination travel"?
-
-Least amount of work
-1. Functional prototype of ticket purchase experience
-2. Landing page copy and calls-to-action to learn more
+- [View Lean UX Canvas on Google Slides](https://docs.google.com/presentation/d/124OJNQi8K72GziD1rvknJLwNsIVZxmBPcxq7Vl1mYD0/edit?usp=sharing)
+- Time: 15m
 
 ## Solution discovery
 
-### Design exploration
+### [Design exploration](https://bixal.github.io/methods/design-studio)
 
-Time: 1hr
+<img width="1156" alt="sketches" src="https://user-images.githubusercontent.com/5177337/151229177-95059c5e-20f4-4ed7-9fde-9b79e3f912f3.png">
 
-### Rapid web prototyping
+- Quick sketches and copy ideas
+- Time: 1hr
 
-Time: 1hr
+### [Rapid web prototyping](https://github.com/pglevy/rwp-toolkit#readme)
+
+<img width="1552" alt="quicktix2" src="https://user-images.githubusercontent.com/5177337/151229716-d205c6c6-9aed-4f5f-af37-c607f3d1ea1e.png">
+
+- [QuickTix: One-page ticket purchase for common routes](https://pglevy.github.io/trip-planner/quick-tix.html)
+    - Questions:
+        - Does this capture everything we need?
+        - Do people have additional questions that aren't answered here for this use case?
+        - How does it compare to current experience?
+- Time: 1hr
 
 ## Solution validation
 
-### Usability test (prototype)
+### [Usability test](https://bixal.github.io/methods/usability-testing) (prototype)
 
-Time: 30m
+- In-person, on mobile device (no recording)
+- Time: 30m
