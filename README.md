@@ -16,7 +16,7 @@ A design challenge to enhance the [Amtrak trip planning experience](https://www.
 <img width="1067" alt="test with shadow" src="https://user-images.githubusercontent.com/5177337/151230347-da051ea4-ec9b-4c03-94fa-d6c40235a48b.png">
 
 - Prompt: You want to plan a romantic getaway weekend, but you don't want to drive and you don't want to deal with the hassle of flying. So you decide to book travel on the train. Go ahead and use this link to plan your trip.
-- [Video recording](#)
+- [Video recording](https://youtu.be/EscxP3tbW4I)
 - Time: 30m
 
 ## Problem validation
