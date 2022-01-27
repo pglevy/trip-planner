@@ -58,6 +58,15 @@ My approach and artifacts are organized below according to “four contexts”: 
         - How does it compare to current experience?
 - Time: 1hr
 
+<img width="1552" alt="remote on rails" src="https://user-images.githubusercontent.com/5177337/151388871-29ca2e2d-f7c8-4622-8471-dd773ffc8102.png">
+
+- **2nd Live Prototype: [Remote on Rails concept: Work/life travel experience for digital nomads](https://pglevy.github.io/trip-planner/remote-on-rails.html)**
+    - Questions:
+        - Does this idea resonate with the intended audience?
+        - What part of the messaging is working (and what isn't)?
+        - How many click-throughs do we get to contact or follow?
+- Time: 1hr
+
 ## Solution validation
 
 ### [Usability test](https://bixal.github.io/methods/usability-testing) (prototype)
