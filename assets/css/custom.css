@@ -1,6 +1,12 @@
+---
+---
 .maxw-half {
     max-width: 50% !important;
 }
 .width-half {
     width: 50% !important;
+}
+
+.hero {
+    background: center / cover no-repeat url("{{ site.baseurl }}/assets/img/johannes-hofmann-isKo2tLJHfA-unsplash.jpg");
 }

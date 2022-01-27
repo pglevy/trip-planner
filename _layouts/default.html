@@ -15,6 +15,7 @@
   <body class="{{ page.body-style }}">
     {% if page.header %}{% include components/basic-header.html %}{% endif %}
     <main id="main-content">
+      {% if page.title == "Remote on Rails" %}{% include content/train-hero.html %}{% endif %}
       <div class="{% if page.prose %} usa-prose padding-top-4{% endif %}">
         {{ content }}
       </div>
